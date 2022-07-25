@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="checking_account"> 10 </integer>
+    <integer name="savings_account"> 15 </integer>
+    <integer name="credit_account"> 0 </integer>
+</resources>

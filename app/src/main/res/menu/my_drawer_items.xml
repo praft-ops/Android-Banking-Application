@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/accountsId"
+        android:icon="@drawable/ic_baseline_account_balance_24"
+        android:title="Accounts" />
+    <item
+        android:id="@+id/helpId"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="Help" />
+    <item
+        android:id="@+id/preferencesId"
+        android:icon="@drawable/ic_baseline_settings_applications_24"
+        android:title="Preferences" />
+    <item
+        android:id="@+id/transactionId"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="Transactions" >
+        <menu>
+            <item
+                android:id="@+id/withdrawId"
+                android:icon="@drawable/ic_baseline_arrow_upward_24"
+                android:title="Withdraw"/>
+            <item
+                android:id="@+id/depositId"
+                android:icon="@drawable/ic_baseline_arrow_downward_24"
+                android:title="Deposit" />
+        </menu>
+    </item>
+</menu>

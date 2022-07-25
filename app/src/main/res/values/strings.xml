@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Banking Application</string>
+    <string name="forcasting">Forcasting</string>
+    <string name="account_page">Account Page</string>
+    <string name="preferences">Preferences</string>
+    <string name="deposit_and_withdrawl">Deposit and Withdrawl</string>
+    <string name="about_this_app">About this app</string>
+    <string name="authors">Authors</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_phasellus_accumsan_risus_non_diam_auctor_gravida_nullam_aliquam_rhoncus_sem_eget_gravida_nunc_at_dui_ultricies_efficitur_felis_sit_amet_interdum_dolor_nulla_facilisi_morbi_erat_lorem_consequat_a_mauris_quis_maximus_efficitur_orci_maecenas_non_mauris_tempus_vehicula_erat_et_rhoncus_nisl_donec_tincidunt_ut_sem_non_pharetra_ut_et_purus_malesuada_ullamcorper_enim_sagittis_efficitur_libero_cras_consequat_velit_eu_auctor_iaculis_vestibulum_vitae_metus_eget_nisl_imperdiet_euismod_vestibulum_sit_amet_odio_sit_amet_mi_fringilla_venenatis_id_ut_orci_mauris_leo_sapien_imperdiet_sodales_elementum_semper_tempus_ut_mi_aliquam_efficitur_cursus_justo_id_molestie_sem_pulvinar_ut_fusce_dictum_libero_vitae_eros_lacinia_ullamcorper_cras_interdum_purus_metus_sit_amet_rhoncus_massa_rhoncus_ut">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan risus non diam auctor gravida. Nullam aliquam rhoncus sem eget gravida. Nunc at dui ultricies, efficitur felis sit amet, interdum dolor. Nulla facilisi. Morbi erat lorem, consequat a mauris quis, maximus efficitur orci. Maecenas non mauris tempus, vehicula erat et, rhoncus nisl. Donec tincidunt ut sem non pharetra. Ut et purus malesuada, ullamcorper enim sagittis, efficitur libero. Cras consequat velit eu auctor iaculis. Vestibulum vitae metus eget nisl imperdiet euismod. Vestibulum sit amet odio sit amet mi fringilla venenatis id ut orci. Mauris leo sapien, imperdiet sodales elementum semper, tempus ut mi. Aliquam efficitur cursus justo, id molestie sem pulvinar ut. Fusce dictum libero vitae eros lacinia ullamcorper. Cras interdum purus metus, sit amet rhoncus massa rhoncus ut.</string>
+    <string name="help">Help</string>
+    <string name="bank_accounts">Bank Accounts</string>
+    <string name="checking">checking</string>
+    <string name="account_balance">account_Balance</string>
+    <string name="savings">savings</string>
+    <string name="available_credit">Available_Credit</string>
+    <string name="Preferences">Preferences</string>
+    <string name="Credit">Credit</string>
+    <string name="Account_balance">account_Balance</string>
+    <string name="deposit">Deposit</string>
+    <string name="withdrawl">Withdrawl</string>
+    <string name="withdrawl_amount">Withdrawl Amount</string>
+    <string name="withdrwawl2">Withdrwawl</string>
+    <string name="withdraw_amount">Withdraw Amount</string>
+
+    <string-array name="account_array">
+        <item>Checking</item>
+        <item>Savings</item>
+        <item>Credit</item>
+
+    </string-array>
+</resources>
